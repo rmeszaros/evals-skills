@@ -38,7 +38,7 @@ To upgrade:
 
 | Skill | What it does |
 |-------|-------------|
-| eval-audit | Audit an eval pipeline and surface problems with prioritized fixes |
+| eval-audit | Audit an eval pipeline and surface problems with prioritized severity |
 | error-analysis | Guide the user through reading traces and categorizing failures |
 | generate-synthetic-data | Create diverse synthetic test inputs using dimension-based tuple generation |
 | write-judge-prompt | Design LLM-as-Judge evaluators for subjective quality criteria |
