@@ -1,5 +1,4 @@
 ---
-name: generate-synthetic-data
 description: >
   Create diverse synthetic test inputs for LLM pipeline evaluation using
   dimension-based tuple generation. Use when bootstrapping an eval dataset,

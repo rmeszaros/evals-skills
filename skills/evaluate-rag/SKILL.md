@@ -1,5 +1,4 @@
 ---
-name: evaluate-rag
 description: >
   Guides evaluation of RAG pipeline retrieval and generation quality.
   Use when evaluating a retrieval-augmented generation system, measuring retrieval quality,

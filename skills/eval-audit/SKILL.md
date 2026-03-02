@@ -1,5 +1,4 @@
 ---
-name: eval-audit
 description: >
   Audit an LLM eval pipeline and surface problems: missing error analysis,
   unvalidated judges, vanity metrics, etc. Use when

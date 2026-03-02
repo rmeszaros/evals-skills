@@ -1,5 +1,4 @@
 ---
-name: error-analysis
 description: >
   Help the user systematically identify and categorize failure modes in an LLM
   pipeline by reading traces. Use when starting a new eval project, after

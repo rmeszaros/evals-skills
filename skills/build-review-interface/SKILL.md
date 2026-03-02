@@ -1,5 +1,4 @@
 ---
-name: build-review-interface
 description: >
   Build a custom browser-based annotation interface tailored to your data for
   reviewing LLM traces and collecting structured feedback. Use when you need to
